@@ -1,0 +1,24 @@
+.vs/
+**/bin/
+**/obj/
+*.log
+
+
+
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+
+/game.WebSite/Upload/
+/game.WebSite/Upload/*
+/game.WebSite/Upload/QuestionImage
+/game.WebSite/PaymentHelper/Huibao.cs
+
+
+
+**/packages/*
